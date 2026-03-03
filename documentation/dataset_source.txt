@@ -1,0 +1,2 @@
+Dataset: Job Postings Dataset by Luke Barousse.
+Analysis and dashboard modeling performed independently using Excel.
